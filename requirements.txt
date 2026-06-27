@@ -1,0 +1,6 @@
+streamlit
+matplotlib
+numpy
+scipy.integrate
+io
+contextlib
